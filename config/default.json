@@ -1,0 +1,6 @@
+{
+  "auth": {
+    "key": "marcioviniciusapisecurekey",
+    "tokenExpiresIn": "7d"
+  }
+}

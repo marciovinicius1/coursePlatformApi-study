@@ -64,7 +64,7 @@ A API Possui os models de Usuário (Professor e Aluno) e Cursos, onde é possív
 - Para download do projeto siga as instruções a baixo:
 
 ```
-1. git clone
+1. git clone https://github.com/Marciovinicius1/coursePlatformApi-study
 2. cd api
 ```
 

@@ -1,3 +1,5 @@
+<img alt="header" title="header" src="./.github/header.png"></img>
+
 # **✨Rest API com MySQL**
 
 Uma REST API Node.js que possui as funcões CRUD, autenticação e autorização de usuário e estruturas desacopladas prontas para aplicação de testes unitários.
